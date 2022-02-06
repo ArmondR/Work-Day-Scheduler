@@ -26,7 +26,7 @@ Instead of using moment.js for the time control of the application I explored an
 
 ## Credits
 
-Contributions to the functinality of this application goes to the program TAs: Bobby Hoffman and Jasper Abarquez for troubleshooting support as well as class instructor Kevin Ferguson for question logic set up. Also help recieved from tutor Michell Brito for assistence in expanding my knowledge in dynamic code generation.
+Contributions to the functionality of this application goes to the program TAs: John Titus and Jasper Abarquez for assisting in furthering my understanding of local storage.
 
 ### License
 
